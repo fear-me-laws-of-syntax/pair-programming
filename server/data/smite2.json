@@ -1,0 +1,737 @@
+[
+    {
+        "name": "Anhur",
+        "summary": {
+            "title": "Slayer of Enemies",
+            "pantheon": "Egyptian",
+            "type": "Ranged,Physical",
+            "class": "Hunter",
+            "pros": "High Single Target Damage",
+            "difficulty": "Average",
+            "release_date": "August 3, 2012",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Anhur_voicelines",
+            "voice_actor": "Christopher Sabat"
+        },
+        "stats": {
+            "health": "644 (+82)",
+            "mana": "220 (+35)",
+            "speed": "365 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "0.9 (+1.7%)",
+            "basic_attack": {
+                "damage": "35 (+ 2.5)+ 100% of Physical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "15 (+3)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.69)",
+                "mp5": "4.5 (+0.32)"
+            }
+        }
+    },
+    {
+        "name": "Anubis",
+        "summary": {
+            "title": "God of the Dead",
+            "pantheon": "Egyptian",
+            "type": "Ranged,Magical",
+            "class": "Mage",
+            "pros": "High Area Damage",
+            "difficulty": "Easy",
+            "release_date": "May 31, 2012",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Anubis_voicelines",
+            "voice_actor": "R. Bruce Elliott"
+        },
+        "stats": {
+            "health": "532 (+74)",
+            "mana": "280 (+58)",
+            "speed": "360 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "0.86 (+0.99%)",
+            "basic_attack": {
+                "damage": "35 (+ 1.5)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "14 (+2.7)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "7 (+0.45)",
+                "mp5": "4.8 (+0.36)"
+            }
+        }
+    },
+    {
+        "name": "Ares",
+        "summary": {
+            "title": "God of War",
+            "pantheon": "Greek",
+            "type": "Melee,Magical",
+            "class": "Guardian",
+            "pros": "High Crowd Control, High Defense",
+            "difficulty": "Easy",
+            "release_date": "October 4, 2012",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Ares_voicelines",
+            "voice_actor": "Jason Douglas"
+        },
+        "stats": {
+            "health": "679 (+95)",
+            "mana": "200 (+37)",
+            "speed": "365 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "0.9 (+1.25%)",
+            "basic_attack": {
+                "damage": "38 (+ 1.55)+ 20% of Magical Power",
+                "progression": "1/.75/1/1.25x damage and swing time"
+            },
+            "protection": {
+                "physical": "28 (+3.2)",
+                "magical": "35 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.67)",
+                "mp5": "4.6 (+0.42)"
+            }
+        }
+    },
+    {
+        "name": "Athena",
+        "summary": {
+            "title": "Goddess of Wisdom",
+            "pantheon": "Greek",
+            "type": "Melee,Magical",
+            "class": "Guardian",
+            "pros": "High Crowd Control, High Defense",
+            "difficulty": "Easy",
+            "release_date": "June 5, 2013",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Athena_voicelines",
+            "voice_actor": "Lindsey Alena"
+        },
+        "stats": {
+            "health": "700 (+105)",
+            "mana": "190 (+34)",
+            "speed": "365 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "1 (+1.2%)",
+            "basic_attack": {
+                "damage": "35 (+ 1.5)+ 20% of Magical Power",
+                "progression": "1/1/2x damage and swing time, hitting in an AoE on the final blow"
+            },
+            "protection": {
+                "physical": "28 (+3.5)",
+                "magical": "35 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.9)",
+                "mp5": "4.6 (+0.42)"
+            }
+        }
+    },
+    {
+        "name": "Bacchus",
+        "summary": {
+            "title": "God of wine",
+            "pantheon": "Roman",
+            "type": "Melee,Magical",
+            "class": "Guardian",
+            "pros": "High Crowd Control, High Defense",
+            "difficulty": "Average",
+            "release_date": "November 19, 2012",
+            "favor": null,
+            "gems": null,
+            "voicelines": "https://smite.fandom.com/wiki/Bacchus_voicelines",
+            "voice_actor": "Chris Rager"
+        },
+        "stats": {
+            "health": "693 (+90)",
+            "mana": "200 (+40)",
+            "speed": "365 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "0.88 (+1%)",
+            "basic_attack": {
+                "damage": "37 (+ 1.5)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "27 (+3.2)",
+                "magical": "35 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.8)",
+                "mp5": "4.8 (+0.4)"
+            }
+        }
+    },
+    {
+        "name": "Bacchus",
+        "summary": {
+            "title": "God of wine",
+            "pantheon": "Roman",
+            "type": "Melee,Magical",
+            "class": "Guardian",
+            "pros": "High Crowd Control, High Defense",
+            "difficulty": "Average",
+            "release_date": "November 19, 2012",
+            "favor": null,
+            "gems": null,
+            "voicelines": "https://smite.fandom.com/wiki/Bacchus_voicelines",
+            "voice_actor": "Chris Rager"
+        },
+        "stats": {
+            "health": "693 (+90)",
+            "mana": "200 (+40)",
+            "speed": "365 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "0.88 (+1%)",
+            "basic_attack": {
+                "damage": "37 (+ 1.5)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "27 (+3.2)",
+                "magical": "35 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.8)",
+                "mp5": "4.8 (+0.4)"
+            }
+        }
+    },
+    {
+        "name": "Cernunnos",
+        "summary": {
+            "title": "The Horned God",
+            "pantheon": "Celtic",
+            "type": "Ranged,Physical",
+            "class": "Hunter",
+            "pros": "High Crowd Control, High Area Damage",
+            "difficulty": "Average",
+            "release_date": "March 14, 2017",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Cernunnos_voicelines",
+            "voice_actor": "Mick Lauer"
+        },
+        "stats": {
+            "health": "672 (+84)",
+            "mana": "220 (+37)",
+            "speed": "365 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "1 (+1.4%)",
+            "basic_attack": {
+                "damage": "32 (+ 2.5)+ 100% of Physical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "18 (+3.1)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.69)",
+                "mp5": "4.5 (+0.32)"
+            }
+        }
+    },
+    {
+        "name": "Chaac",
+        "summary": {
+            "title": "God of Rain",
+            "pantheon": "Maya",
+            "type": "Melee,Physical",
+            "class": "Warrior",
+            "pros": "High Sustain",
+            "difficulty": "Average",
+            "release_date": "December 18, 2013",
+            "favor": null,
+            "gems": null,
+            "voicelines": "https://smite.fandom.com/wiki/Chaac_voicelines",
+            "voice_actor": "Patrick Seitz"
+        },
+        "stats": {
+            "health": "686 (+92)",
+            "mana": "205 (+35)",
+            "speed": "375 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "1 (+1.2%)",
+            "basic_attack": {
+                "damage": "39 (+ 2.1)+ 100% of Physical Power",
+                "progression": "1/.5/1.5x damage"
+            },
+            "protection": {
+                "physical": "25 (+3.2)",
+                "magical": "32 (+1.6)"
+            },
+            "regen": {
+                "hp5": "7 (+0.8)",
+                "mp5": "4.7 (+0.39)"
+            }
+        }
+    },
+    {
+        "name": "Fenrir",
+        "summary": {
+            "title": "The Unbound",
+            "pantheon": "Norse",
+            "type": "Melee,Physical",
+            "class": "Assassin",
+            "pros": "High Single Target Damage, High Mobility",
+            "difficulty": "Average",
+            "release_date": "May 1, 2013",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Fenrir_voicelines",
+            "voice_actor": "Christopher Sabat"
+        },
+        "stats": {
+            "health": "637 (+82)",
+            "mana": "230 (+35)",
+            "speed": "370 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "1 (+1.7%)",
+            "basic_attack": {
+                "damage": "38 (+ 2.3)+ 100% of Physical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "20 (+3.2)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.73)",
+                "mp5": "4.2 (+0.26)"
+            }
+        }
+    },
+    {
+        "name": "Hades",
+        "summary": {
+            "title": "King of the Underworld",
+            "pantheon": "Greek",
+            "type": "Ranged,Magical",
+            "class": "Mage",
+            "pros": "High Defense, High Sustain",
+            "difficulty": "Easy",
+            "release_date": "May 31, 2012",
+            "favor": 2000,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Hades_voicelines",
+            "voice_actor": "Patrick Seitz"
+        },
+        "stats": {
+            "health": "665 (+89)",
+            "mana": "265 (+53)",
+            "speed": "365 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "0.95 (+1.05%)",
+            "basic_attack": {
+                "damage": "32 (+ 1.5)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "25 (+2.8)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "5 (+0.54)",
+                "mp5": "5 (+0.36)"
+            }
+        }
+    },
+    {
+        "name": "Kukulkan",
+        "summary": {
+            "title": "Serpent of the Nine Winds",
+            "pantheon": "Maya",
+            "type": "Ranged,Magical",
+            "class": "Mage",
+            "pros": "Pusher, High Area Damage",
+            "difficulty": "Easy",
+            "release_date": "May 31, 2012",
+            "favor": null,
+            "gems": null,
+            "voicelines": "https://smite.fandom.com/wiki/Kukulkan_voicelines",
+            "voice_actor": "Clifford Chapin"
+        },
+        "stats": {
+            "health": "532 (+79)",
+            "mana": "265 (+45)",
+            "speed": "360 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "0.87 (+0.91%)",
+            "basic_attack": {
+                "damage": "34 (+ 1.45)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "18 (+3.2)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "7 (+0.46)",
+                "mp5": "5 (+0.45)"
+            }
+        }
+    },
+    {
+        "name": "Loki",
+        "summary": {
+            "title": "The Trickster God",
+            "pantheon": "Norse",
+            "type": "Melee,Physical",
+            "class": "Assassin",
+            "pros": "High Single Target Damage",
+            "difficulty": "Easy",
+            "release_date": "November 2, 2012",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Loki_voicelines",
+            "voice_actor": "Alex Ross"
+        },
+        "stats": {
+            "health": "553 (+79)",
+            "mana": "210 (+35)",
+            "speed": "375 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "1 (+1.9%)",
+            "basic_attack": {
+                "damage": "38 (+ 2.4)+ 100% of Physical Power",
+                "progression": "1/.5/.5/.5/1.5x damage and 1/.5/.5/.5/1.5x swing time"
+            },
+            "protection": {
+                "physical": "15 (+3.1)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.7)",
+                "mp5": "4.2 (+0.35)"
+            }
+        }
+    },
+    {
+        "name": "Neith",
+        "summary": {
+            "title": "Weaver of Fate",
+            "pantheon": "Egyptian",
+            "type": "Ranged,Physical",
+            "class": "Hunter",
+            "pros": "High Crowd Control, High Sustain",
+            "difficulty": "Easy",
+            "release_date": "February 13, 2013",
+            "favor": null,
+            "gems": null,
+            "voicelines": "https://smite.fandom.com/wiki/Neith_voicelines",
+            "voice_actor": "Lindsay Seidel"
+        },
+        "stats": {
+            "health": "640 (+79)",
+            "mana": "230 (+39)",
+            "speed": "365 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "1 (+1.6%)",
+            "basic_attack": {
+                "damage": "33 (+ 2.5)+ 100% of Physical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "17 (+3.2)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "6 (+0.54)",
+                "mp5": "4.4 (+0.35)"
+            }
+        }
+    },
+    {
+        "name": "Odin",
+        "summary": {
+            "title": "The Allfather",
+            "pantheon": "Norse",
+            "type": "Melee,Physical",
+            "class": "Warrior",
+            "pros": "High Crowd Control, High Area Damage",
+            "difficulty": "Easy",
+            "release_date": "May 31, 2012",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Odin_voicelines",
+            "voice_actor": "Bob Carter"
+        },
+        "stats": {
+            "health": "658 (+87)",
+            "mana": "200 (+35)",
+            "speed": "370 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "1 (+1.1%)",
+            "basic_attack": {
+                "damage": "38 (+ 2)+ 100% of Physical Power",
+                "progression": "1/1/1/1.5x damage and swing time"
+            },
+            "protection": {
+                "physical": "22 (+3.2)",
+                "magical": "32 (+1.6)"
+            },
+            "regen": {
+                "hp5": "9 (+0.63)",
+                "mp5": "4.1 (+0.4)"
+            }
+        }
+    },
+    {
+        "name": "Sol",
+        "summary": {
+            "title": "Goddess of the Sun",
+            "pantheon": "Norse",
+            "type": "Ranged,Magical",
+            "class": "Mage",
+            "pros": "High Single Target Damage, High Mobility",
+            "difficulty": "Hard",
+            "release_date": "October 6, 2015",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Sol_voicelines",
+            "voice_actor": "Jeannie Tirado"
+        },
+        "stats": {
+            "health": "560 (+79)",
+            "mana": "300 (+57)",
+            "speed": "370 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "1 (+1.8%)",
+            "basic_attack": {
+                "damage": "34 (+ 1.45)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "13 (+2.8)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "6 (+0.45)",
+                "mp5": "4.9 (+0.4)"
+            }
+        }
+    },
+    {
+        "name": "Susano",
+        "summary": {
+            "title": "God of the Summer Storm",
+            "pantheon": "Japanese",
+            "type": "Melee,Physical",
+            "class": "Assassin",
+            "pros": "High Crowd Control, High Mobility",
+            "difficulty": "Hard",
+            "release_date": "May 10, 2016",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Susano_voicelines",
+            "voice_actor": "Jim Foronda"
+        },
+        "stats": {
+            "health": "609 (+80)",
+            "mana": "225 (+38)",
+            "speed": "370 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "1 (+2.16%)",
+            "basic_attack": {
+                "damage": "38 (+ 2.2)+ 100% of Physical Power",
+                "progression": "1/1/1.25x damage and swing time"
+            },
+            "protection": {
+                "physical": "20 (+3.1)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "9 (+0.7)",
+                "mp5": "4.2 (+0.27)"
+            }
+        }
+    },
+    {
+        "name": "Thanatos",
+        "summary": {
+            "title": "Hand of Death",
+            "pantheon": "Greek",
+            "type": "Melee,Physical",
+            "class": "Assassin",
+            "pros": "High Sustain",
+            "difficulty": "Average",
+            "release_date": "September 18, 2013",
+            "favor": null,
+            "gems": null,
+            "voicelines": "https://smite.fandom.com/wiki/Thanatos_voicelines",
+            "voice_actor": "Scott Freeman"
+        },
+        "stats": {
+            "health": "546 (+79)",
+            "mana": "240 (+38)",
+            "speed": "370 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "1 (+1.7%)",
+            "basic_attack": {
+                "damage": "39 (+ 2.3)+ 100% of Physical Power",
+                "progression": "1/.75/1.5x damage and swing time, hitting in an AoE on the final blow"
+            },
+            "protection": {
+                "physical": "20 (+3.1)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "8 (+0.67)",
+                "mp5": "4.4 (+0.38)"
+            }
+        }
+    },
+    {
+        "name": "The Morrigan",
+        "summary": {
+            "title": "Phantom Queen",
+            "pantheon": "Celtic",
+            "type": "Ranged,Magical",
+            "class": "Mage",
+            "pros": "High Area Damage",
+            "difficulty": "Very Hard",
+            "release_date": "January 10, 2017",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/The_Morrigan_voicelines",
+            "voice_actor": "Elizabeth Maxwell"
+        },
+        "stats": {
+            "health": "560 (+79)",
+            "mana": "250 (+38)",
+            "speed": "365 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "0.87 (+1%)",
+            "basic_attack": {
+                "damage": "34 (+ 2.4)+ 20% of Magical Power",
+                "progression": "1/1/1x damage and swing time; 3rd attack hits all enemies in a 10 unit area"
+            },
+            "protection": {
+                "physical": "17 (+3.2)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "10 (+0.7)",
+                "mp5": "4.5 (+0.4)"
+            }
+        }
+    },
+    {
+        "name": "Ymir",
+        "summary": {
+            "title": "Father of the Frost Giants",
+            "pantheon": "Norse",
+            "type": "Melee,Magical",
+            "class": "Guardian",
+            "pros": "High Crowd Control, High Defense",
+            "difficulty": "Easy",
+            "release_date": "May 31, 2012",
+            "favor": null,
+            "gems": null,
+            "voicelines": "https://smite.fandom.com/wiki/Ymir_voicelines",
+            "voice_actor": "Charles Campbell"
+        },
+        "stats": {
+            "health": "714 (+109)",
+            "mana": "200 (+32)",
+            "speed": "370 (+0)",
+            "range": "12 (+0)",
+            "attack_sec": "0.85 (+1.2%)",
+            "basic_attack": {
+                "damage": "38 (+ 1.55)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "32 (+3.5)",
+                "magical": "38 (+1.2)"
+            },
+            "regen": {
+                "hp5": "8 (+0.9)",
+                "mp5": "4.5 (+0.4)"
+            }
+        }
+    },
+    {
+        "name": "Zeus",
+        "summary": {
+            "title": "God of the Sky",
+            "pantheon": "Greek",
+            "type": "Ranged,Magical",
+            "class": "Mage",
+            "pros": "High Area Damage",
+            "difficulty": "Average",
+            "release_date": "May 31, 2012",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Zeus_voicelines",
+            "voice_actor": "Christopher Sabat"
+        },
+        "stats": {
+            "health": "532 (+75)",
+            "mana": "245 (+44)",
+            "speed": "360 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "0.95 (+0.99%)",
+            "basic_attack": {
+                "damage": "35 (+ 1.5)+ 20% of Magical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "11 (+2.9)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "6 (+0.45)",
+                "mp5": "4.6 (+0.45)"
+            }
+        }
+    },
+    {
+        "name": "Jing Wei",
+        "summary": {
+            "title": "The Oathkeeper",
+            "pantheon": "Chinese",
+            "type": "Ranged,Physical",
+            "class": "Hunter",
+            "pros": "High Mobility",
+            "difficulty": "Easy",
+            "release_date": "April 12, 2016",
+            "favor": 5500,
+            "gems": 200,
+            "voicelines": "https://smite.fandom.com/wiki/Jing_Wei_voicelines",
+            "voice_actor": "Alison Viktorin"
+        },
+        "stats": {
+            "health": "623 (+82)",
+            "mana": "205 (+36)",
+            "speed": "370 (+0)",
+            "range": "55 (+0)",
+            "attack_sec": "1 (+1.4%)",
+            "basic_attack": {
+                "damage": "33 (+ 2.7)+ 100% of Physical Power",
+                "progression": "None"
+            },
+            "protection": {
+                "physical": "15 (+3.1)",
+                "magical": "30 (+1.6)"
+            },
+            "regen": {
+                "hp5": "7 (+0.68)",
+                "mp5": "4.4 (+0.3)"
+            }
+        }
+    }
+]
