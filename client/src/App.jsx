@@ -6,15 +6,19 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
 import './App.scss'
+import HomePage from './Pages/HomePage/HomePage';
+import Header from "./components/Header/Header";
+
 
 function App() {
 
   return (    
     <BrowserRouter>
+          <Header />
     <Routes>
-        <Route path="/" element={<God />} />
-        <Route path="/gods/:name" element={<GodDetails />} />
-        <Route path="/pantheon/:pantheon" element={<God />} />
+        <Route path="/" element={<HomePage />} />
+        {/* <Route path="/gods/:name" element={<GodDetails />} /> */}
+        <Route path="/pantheon/:pantheon" element={<HomePage />} />
       </Routes>
 </BrowserRouter>
 

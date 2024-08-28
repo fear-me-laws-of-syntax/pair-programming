@@ -175,41 +175,6 @@
         }
     },
     {
-        "name": "Bacchus",
-        "summary": {
-            "title": "God of wine",
-            "pantheon": "Roman",
-            "type": "Melee,Magical",
-            "class": "Guardian",
-            "pros": "High Crowd Control, High Defense",
-            "difficulty": "Average",
-            "release_date": "November 19, 2012",
-            "favor": null,
-            "gems": null,
-            "voicelines": "https://smite.fandom.com/wiki/Bacchus_voicelines",
-            "voice_actor": "Chris Rager"
-        },
-        "stats": {
-            "health": "693 (+90)",
-            "mana": "200 (+40)",
-            "speed": "365 (+0)",
-            "range": "12 (+0)",
-            "attack_sec": "0.88 (+1%)",
-            "basic_attack": {
-                "damage": "37 (+ 1.5)+ 20% of Magical Power",
-                "progression": "None"
-            },
-            "protection": {
-                "physical": "27 (+3.2)",
-                "magical": "35 (+1.6)"
-            },
-            "regen": {
-                "hp5": "8 (+0.8)",
-                "mp5": "4.8 (+0.4)"
-            }
-        }
-    },
-    {
         "name": "Cernunnos",
         "summary": {
             "title": "The Horned God",

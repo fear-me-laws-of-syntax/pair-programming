@@ -13,7 +13,7 @@ app.listen(PORT, () => {
 })
 
 app.use(express.json());
-app.use(cors({ origin: "http://FRONTEND-HOST-5173?" }))
+app.use(cors({ origin: "http://localhost:5173" }))
 
 app.get("/", (_req, res) => {
     console.log("Received a GET request to /");
